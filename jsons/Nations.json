@@ -27,8 +27,8 @@
 		"afterPeace": "Peace it is then.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [240,240,250],
+		"innerColor": [40,30,100],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Osgiliath","Minas Tirith","Edoras","Pelargir","Belfalas","Cair Andaros","Hornburg","Henneth Annum","Dol Amroth",
 			"Linhir","Edhellond","Bree","Hobbiton","Dunharrow","Calembel","Grimslade","Tarnost","Amon Hen","Fornost",
